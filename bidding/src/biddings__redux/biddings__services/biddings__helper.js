@@ -1,0 +1,1 @@
+export const BIDDING__MAIN__BACKENDURL="http://localhost:5000/api"
